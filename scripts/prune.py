@@ -48,4 +48,4 @@ def prune_it(p, keep_only_ema=False):
 
 
 if __name__ == "__main__":
-    prune_it('/workspace/path/to/last.ckpt')
+    prune_it('logs/training_samples2022-09-21T06-43-58_yellowbookbot/checkpoint/last.ckpt')
